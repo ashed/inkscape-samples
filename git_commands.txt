@@ -1,0 +1,54 @@
+Keyboard shortcuts
+	Site wide shortcuts
+s 	Focus command bar, search all repositories
+g n 	Go to Notifications
+? 	Bring up this help dialog
+j 	Move selection down
+k 	Move selection up
+x 	Toggle selection
+o / enter 	Open selection
+	Repositories
+g c 	Go to Code
+g i 	Go to Issues
+g p 	Go to Pull Requests
+	Source code browsing
+t 	Activates the file finder
+l 	Jump to line
+w 	Switch branch/tag
+y 	Expand URL to its canonical form
+i 	Show/hide all inline notes
+	Issues
+ctrl enter 	Submit comment
+ctrl shift p 	Preview comment
+ctrl shift l 	Go fullscreen
+c 	Create issue
+l 	Create label
+u 	Back to issues
+/ 	Focus issues search
+r 	Reply (quoting selected text)
+	Browsing commits
+ctrl enter 	Submit comment
+escape 	Close form
+p 	Parent commit
+o 	Other parent commit
+	Commit list
+y 	Expand URL to its canonical form
+	Notifications
+e / y 	Mark as read
+shift m 	Mute thread
+	Pull request list
+r 	Reply (quoting selected text)
+o / enter 	Open issue
+ctrl enter 	Submit comment
+ctrl shift p 	Preview comment
+ctrl shift l 	Go fullscreen
+	Network Graph
+← / h 	Scroll left
+→ / l 	Scroll right
+↑ / k 	Scroll up
+↓ / j 	Scroll down
+t 	Toggle visibility of head labels
+shift ← / shift h 	Scroll all the way left
+shift → / shift l 	Scroll all the way right
+shift ↑ / shift k 	Scroll all the way up
+shift ↓ / shift j 	Scroll all the way down
